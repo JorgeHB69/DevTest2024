@@ -38,3 +38,5 @@ The Dev test is designed to find talent, so we encourage you to showcase as many
 - UI development (HTML, CSS, JS, TS); you can also use libraries and frameworks like Vue.js, React.js, Angular, as well as tools like Bootstrap, Material UI, etc., depending on the tech stack you choose for the test.
 - If you’re not familiar with Git, we suggest learning basic commands like cloning projects, adding commits, and uploading code.
 - To practice, implement the backend of a web application. For practice purposes, you can try to replicate the following application: [The Movie DB](https://www.themoviedb.org/)
+
+Test commit

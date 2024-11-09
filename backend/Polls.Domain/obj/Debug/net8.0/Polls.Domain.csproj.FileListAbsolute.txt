@@ -1,0 +1,13 @@
+C:\Users\jorge\Desktop\JorgeHB\Ing.SC\6toSemestre\test\DevTest2024\backend\Polls.Domain\bin\Debug\net8.0\Polls.Domain.deps.json
+C:\Users\jorge\Desktop\JorgeHB\Ing.SC\6toSemestre\test\DevTest2024\backend\Polls.Domain\bin\Debug\net8.0\Polls.Domain.dll
+C:\Users\jorge\Desktop\JorgeHB\Ing.SC\6toSemestre\test\DevTest2024\backend\Polls.Domain\bin\Debug\net8.0\Polls.Domain.pdb
+C:\Users\jorge\Desktop\JorgeHB\Ing.SC\6toSemestre\test\DevTest2024\backend\Polls.Domain\obj\Debug\net8.0\Polls.Domain.csproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\JorgeHB\Ing.SC\6toSemestre\test\DevTest2024\backend\Polls.Domain\obj\Debug\net8.0\Polls.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Desktop\JorgeHB\Ing.SC\6toSemestre\test\DevTest2024\backend\Polls.Domain\obj\Debug\net8.0\Polls.Domain.AssemblyInfoInputs.cache
+C:\Users\jorge\Desktop\JorgeHB\Ing.SC\6toSemestre\test\DevTest2024\backend\Polls.Domain\obj\Debug\net8.0\Polls.Domain.AssemblyInfo.cs
+C:\Users\jorge\Desktop\JorgeHB\Ing.SC\6toSemestre\test\DevTest2024\backend\Polls.Domain\obj\Debug\net8.0\Polls.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\JorgeHB\Ing.SC\6toSemestre\test\DevTest2024\backend\Polls.Domain\obj\Debug\net8.0\Polls.Domain.sourcelink.json
+C:\Users\jorge\Desktop\JorgeHB\Ing.SC\6toSemestre\test\DevTest2024\backend\Polls.Domain\obj\Debug\net8.0\Polls.Domain.dll
+C:\Users\jorge\Desktop\JorgeHB\Ing.SC\6toSemestre\test\DevTest2024\backend\Polls.Domain\obj\Debug\net8.0\refint\Polls.Domain.dll
+C:\Users\jorge\Desktop\JorgeHB\Ing.SC\6toSemestre\test\DevTest2024\backend\Polls.Domain\obj\Debug\net8.0\Polls.Domain.pdb
+C:\Users\jorge\Desktop\JorgeHB\Ing.SC\6toSemestre\test\DevTest2024\backend\Polls.Domain\obj\Debug\net8.0\ref\Polls.Domain.dll

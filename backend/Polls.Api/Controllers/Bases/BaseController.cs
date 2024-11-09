@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using backend.Entities.Interfaces;
 using FluentValidation;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Polls.Api.Controllers.Interfaces;
 using Polls.Infrastructure.DTOs.Interfaces;
@@ -9,6 +10,7 @@ using Polls.Infrastructure.Repositories.Interfaces;
 namespace Polls.Api.Controllers.Bases;
 
 [ApiController]
+[DisableCors]
 [Route("api/v1/[controller]")]
 public class BaseController<T, TCreate, TUpdate>(IRepository<T> repository, AbstractValidator<T> validator) : ControllerBase, IController<T, TCreate, TUpdate> 
     where T : IEntity

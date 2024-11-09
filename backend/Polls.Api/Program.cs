@@ -24,6 +24,8 @@ builder.Services.AddSingleton<IContext<Poll>, OnMemoryContext>();
 // Validators
 builder.Services.AddValidatorsFromAssemblyContaining<PollValidator>();
 builder.Services.AddSingleton<AbstractValidator<Poll>, PollValidator>();
+builder.Services.AddValidatorsFromAssemblyContaining<VoteValidator>();
+builder.Services.AddSingleton<AbstractValidator<Vote>, VoteValidator>();
 
 var app = builder.Build();
 
